@@ -1,4 +1,4 @@
-Discord Custom Emote Usage bot, is a simple bot capable of tracking emote usage on a daily bases for each guild
+Discord Custom Emote Usage bot, is a simple bot capable of tracking custom emote usage on a daily bases for each guild
 the bot is joined into.
 
 Requirements:
